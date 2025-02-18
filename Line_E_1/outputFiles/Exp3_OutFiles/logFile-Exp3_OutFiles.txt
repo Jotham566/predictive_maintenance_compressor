@@ -1,0 +1,11 @@
+numberOfVectors = 1072
+w1 = 0.06693951185112473
+w2 = 1.0
+a = 0.8
+optimiser = adam
+ALPHA = 0.1
+GAMMA0 = 1e-07
+IMAX = 1000
+initialization = kanadaSan (r = 0.3 in case of KanadaSanMode)
+-------------------------
+stop iteration = 327
