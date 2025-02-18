@@ -1,2 +1,0 @@
-# predictive_maintenance_compressor
-Predictive Maintenance Analysis for industrial fridge/cooler compressors
